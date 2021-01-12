@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+/public/storage
+cake_shop.yaml
+cake_shop.json
+
